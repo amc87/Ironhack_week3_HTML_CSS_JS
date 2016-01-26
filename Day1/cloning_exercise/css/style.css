@@ -1,0 +1,20 @@
+nav {
+	border-color: white !important;
+	background-color: white !important;
+}
+
+#navbar a {
+	background-color: white;
+}
+
+#under-carousel {
+	background-color: #ed564b;
+	height: 300px;
+	border-top: 5px solid #f96b61;
+	border-bottom: 5px solid #f96b61;
+}
+
+.homewidget div {
+	border-color: white;
+	border-width: 5px;
+}

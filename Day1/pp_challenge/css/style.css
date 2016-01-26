@@ -1,0 +1,17 @@
+.menu {
+
+	background-color: #edeff0;
+}
+
+.menu li {
+	border-bottom: 1px solid;
+	border-bottom-color: rgb(214, 218, 220);
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul {
+	padding-left: 10px;
+	padding-right: 10px;
+}

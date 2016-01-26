@@ -1,0 +1,50 @@
+
+
+h1 {
+	font-family: sans-serif;
+}
+
+.box {
+	background-color: #B4CED6;
+	width: 50%;
+	box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.2);
+}
+
+.main_menu {
+	padding: 0;
+	margin:0;
+	margin:auto;
+    width: 505px;
+    background-color: papayawhip;
+    height: 50px;
+}
+
+nav ul li {
+	padding-top: 15px;
+	margin:0;
+	width:90px;
+
+	float: left;
+	list-style: none;
+	display: inline-block;
+}
+
+nav li:nth-child(1n) a {
+	background-color: yellow;
+}
+
+nav li:nth-child(2n) a {
+	background-color: blue;
+}
+
+nav a:visited {
+	color:red;
+}
+
+nav a:hover {
+	color:blue;
+}
+
+nav a:link {
+	color:red;
+}

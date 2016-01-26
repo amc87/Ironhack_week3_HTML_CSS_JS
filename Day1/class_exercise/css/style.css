@@ -1,0 +1,54 @@
+
+nav {
+	width: 760px;
+
+	margin: auto;
+	padding-top: 50px;
+}
+
+nav li{
+	display: inline-block;
+	color: white;
+	width: 100px;
+	padding: 20px;
+	text-align: center;
+	
+
+}
+
+nav li:nth-child(1n) {
+	background-color: blue;
+}
+
+nav li:nth-child(2n) {
+	background-color: green;
+}
+
+nav li a{
+	color: white;
+	margin-top: 15px;
+	height: 15px;
+}
+
+.divider {
+	height: 200px;
+	background-color: yellow;
+	margin-bottom: 20px;
+}
+
+img {
+	width: 200px;
+}
+
+.content-box {
+	
+}
+
+.box {
+	display: inline-block;
+}
+
+p {
+	width: 200px;
+	min-width: 200px;
+}
