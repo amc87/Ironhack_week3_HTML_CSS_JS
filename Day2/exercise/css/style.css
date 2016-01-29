@@ -130,3 +130,6 @@ button {
 	padding-right: 20px;
 }
 
+.col-md-6 {
+	max-width: 49%;
+}
